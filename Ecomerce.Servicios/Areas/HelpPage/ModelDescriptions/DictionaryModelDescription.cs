@@ -1,0 +1,6 @@
+namespace Ecomerce.Servicios.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}

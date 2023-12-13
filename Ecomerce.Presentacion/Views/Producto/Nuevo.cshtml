@@ -1,0 +1,37 @@
+﻿@model ProductoDTO
+@{
+    ViewBag.Title = "Nuevo";
+}
+
+<div style="margin: 35px">
+    <h2>Nuevo Producto</h2>
+    <hr />
+    <form method="post" action="@Url.Action("Nuevo", "Producto")">
+        <div class="form-group">
+            <div> 
+                 <label>Nombre</label>
+                 @Html.TextBoxFor(x => x.Nombre, new { @class = "form-control" })
+            </div>
+            <div> 
+                <label>Referencia</label>
+                @Html.TextBoxFor(x => x.Referencia, new { @class = "form-control" })
+             </div>
+            <div> 
+                <label>Precio</label>
+                @Html.TextBoxFor(x => x.Precio, new { @class = "form-control" })
+             </div>
+            <div> 
+                <label>Stock</label>
+                 @Html.TextBoxFor(x => x.Stock, new { @class = "form-control" })
+             </div>
+            <div> 
+                <label>Descripcion</label>
+                @Html.TextAreaFor(x => x.Stock, new { @class = "form-control" })
+             </div>
+            <hr />
+            <div class="form-group">
+                <input type="submit"  value="Guardar" class="btn btn-success" />
+            </div>
+        </div>
+</form>
+</div>

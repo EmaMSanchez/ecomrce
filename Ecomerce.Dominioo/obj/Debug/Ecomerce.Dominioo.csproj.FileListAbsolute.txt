@@ -1,0 +1,6 @@
+C:\Users\emams\source\repos\Ecomerce\Ecomerce.Dominioo\bin\Debug\Ecomerce.Dominioo.dll
+C:\Users\emams\source\repos\Ecomerce\Ecomerce.Dominioo\bin\Debug\Ecomerce.Dominioo.pdb
+C:\Users\emams\source\repos\Ecomerce\Ecomerce.Dominioo\obj\Debug\Ecomerce.Dominioo.csproj.AssemblyReference.cache
+C:\Users\emams\source\repos\Ecomerce\Ecomerce.Dominioo\obj\Debug\Ecomerce.Dominioo.csproj.CoreCompileInputs.cache
+C:\Users\emams\source\repos\Ecomerce\Ecomerce.Dominioo\obj\Debug\Ecomerce.Dominioo.dll
+C:\Users\emams\source\repos\Ecomerce\Ecomerce.Dominioo\obj\Debug\Ecomerce.Dominioo.pdb
